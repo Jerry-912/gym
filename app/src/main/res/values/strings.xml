@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GymLog V SP22</string>
+    <string name="mainExerciseHint">Enter Exercise</string>
+    <string name="mainWeightHint">Enter Weight</string>
+    <string name="mainRepsHint">Enter Reps</string>
+    <string name="mainSubmitButton">Submit</string>
+    <string name="no_logs_msg">No logs yet, time to hit the gym</string>
+    <string name="logout">User logged out</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="logout1">Logout</string>
+</resources>
